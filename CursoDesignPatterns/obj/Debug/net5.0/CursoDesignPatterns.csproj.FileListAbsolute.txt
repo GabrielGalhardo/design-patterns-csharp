@@ -1,0 +1,16 @@
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.exe
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.deps.json
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.runtimeconfig.json
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.runtimeconfig.dev.json
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.dll
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\ref\CursoDesignPatterns.dll
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net5.0\CursoDesignPatterns.pdb
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.AssemblyInfo.cs
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.dll
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\ref\CursoDesignPatterns.dll
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.pdb
+C:\Users\arqui\Desktop\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net5.0\CursoDesignPatterns.genruntimeconfig.cache
