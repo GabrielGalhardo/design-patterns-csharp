@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace CursoDesignPatterns
 {
-    public interface Imposto
+    public interface IDesconto
     {
-        double Calcula(Orcamento orcamento);
+        double Desconta(Orcamento orcamento); 
+        IDesconto Proximo { get; set; }
     }
 }

@@ -8,7 +8,7 @@ namespace CursoDesignPatterns
 {
     public class CalculadorDeImpostos
     {
-        public void RealizaCalculo(Orcamento orcamento, Imposto imposto)
+        public void RealizaCalculo(Orcamento orcamento, IImposto imposto)
         {
             double valor = imposto.Calcula(orcamento);
             Console.WriteLine(valor);

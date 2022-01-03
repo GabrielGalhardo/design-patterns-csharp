@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace CursoDesignPatterns
 {
-    class ICMS : IImposto
+    class SemDesconto : Desconto
     {
-        public double Calcula(Orcamento orcamento)
+        public Desconto Proximo { get; set; }
+        public double Desconta(Orcamento orcamento) 
         {
-            return orcamento.Valor * 0.05 + 50.0;
+            return 0;
         }
     }
 }
