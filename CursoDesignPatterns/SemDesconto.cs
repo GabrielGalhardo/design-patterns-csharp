@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CursoDesignPatterns
 {
-    class SemDesconto : Desconto
+    class SemDesconto : IDesconto
     {
-        public Desconto Proximo { get; set; }
+        public IDesconto Proximo { get; set; }
         public double Desconta(Orcamento orcamento) 
         {
             return 0;
