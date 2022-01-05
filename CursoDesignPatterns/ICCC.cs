@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoDesignPatterns
 {
-    class ICCC : IImposto
+    class ICCC : Imposto
     {
         public double Calcula(Orcamento orcamento)
         {
