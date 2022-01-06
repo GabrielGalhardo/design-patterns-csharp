@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qe5iK8WGXTfyG8Yj1DbtNy5hOCZ+AUXE0/ETyaLkZyEJnwqoENE8YG/1CkVJqdtTfJ0V4NKyJJBqzNFpEBMq4w==",
+  "dgSpecHash": "0vmBq7ciIeO731xkB7FY//q9rtBZ3/D7+heD/CgHfqwc8b76oC6sxgt0d0smvEPSu5i7z+iFYYogPBTuMlasWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arqui\\Desktop\\CursoDesignPatterns\\CursoDesignPatterns\\CursoDesignPatterns.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\arqui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\galhardo.dsn.erp\\Desktop\\patterns-c#\\design-patterns-csharp\\CursoDesignPatterns\\CursoDesignPatterns.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

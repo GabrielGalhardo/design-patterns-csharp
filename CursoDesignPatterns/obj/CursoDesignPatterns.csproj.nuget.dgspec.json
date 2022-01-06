@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arqui\\Desktop\\CursoDesignPatterns\\CursoDesignPatterns\\CursoDesignPatterns.csproj": {}
+    "C:\\Users\\galhardo.dsn.erp\\Desktop\\patterns-c#\\design-patterns-csharp\\CursoDesignPatterns\\CursoDesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arqui\\Desktop\\CursoDesignPatterns\\CursoDesignPatterns\\CursoDesignPatterns.csproj": {
+    "C:\\Users\\galhardo.dsn.erp\\Desktop\\patterns-c#\\design-patterns-csharp\\CursoDesignPatterns\\CursoDesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arqui\\Desktop\\CursoDesignPatterns\\CursoDesignPatterns\\CursoDesignPatterns.csproj",
+        "projectUniqueName": "C:\\Users\\galhardo.dsn.erp\\Desktop\\patterns-c#\\design-patterns-csharp\\CursoDesignPatterns\\CursoDesignPatterns.csproj",
         "projectName": "CursoDesignPatterns",
-        "projectPath": "C:\\Users\\arqui\\Desktop\\CursoDesignPatterns\\CursoDesignPatterns\\CursoDesignPatterns.csproj",
-        "packagesPath": "C:\\Users\\arqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arqui\\Desktop\\CursoDesignPatterns\\CursoDesignPatterns\\obj\\",
+        "projectPath": "C:\\Users\\galhardo.dsn.erp\\Desktop\\patterns-c#\\design-patterns-csharp\\CursoDesignPatterns\\CursoDesignPatterns.csproj",
+        "packagesPath": "C:\\Users\\galhardo.dsn.erp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\galhardo.dsn.erp\\Desktop\\patterns-c#\\design-patterns-csharp\\CursoDesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\galhardo.dsn.erp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
